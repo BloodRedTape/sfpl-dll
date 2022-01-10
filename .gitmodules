@@ -1,0 +1,3 @@
+[submodule "sfpl"]
+	path = sfpl
+	url = git@github.com:BloodRedTape/sfpl.git
